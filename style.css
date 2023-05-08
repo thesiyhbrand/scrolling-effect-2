@@ -1,11 +1,11 @@
 @font-face {
     font-family: fontone;
-    src: url(/Fonts/PPMigra-Regular.fb0ee287.otf);
+    src: url(Fonts/PPMigra-Regular.fb0ee287.otf);
 }
 
 @font-face {
     font-family: fontthree;
-    src: url(/Fonts/TTCommons-Regular.7ec989a7.otf);
+    src: url(Fonts/TTCommons-Regular.7ec989a7.otf);
 }
 
 *{
